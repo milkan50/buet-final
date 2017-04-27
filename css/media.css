@@ -1057,7 +1057,7 @@ body {
 .header_bg {
     background-image: url(../Images/texture.jpg);
     background-attachment: fixed;
-height: 118px;
+height: 120px;
     border-bottom: 5px solid #AC1E23; 
     z-index: 1;
 }
@@ -1575,7 +1575,7 @@ body {
 .header_bg {
     background-image: url(../Images/texture.jpg);
     background-attachment: fixed;
-height: 118px;
+height: 130px;
     border-bottom: 5px solid #AC1E23; 
     z-index: 1;
 }
@@ -2093,7 +2093,7 @@ body {
 .header_bg {
     background-image: url(../Images/texture.jpg);
     background-attachment: fixed;
-height: 118px;
+height: 145px;
     border-bottom: 5px solid #AC1E23; 
     z-index: 1;
 }
